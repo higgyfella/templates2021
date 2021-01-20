@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><standard-workflow tmpl-alias="standard-workflow" tmpl-author="Default Admin" tmpl-class-name="com.adaptris.core.StandardWorkflow" tmpl-created="2021-01-20T09:02:40" tmpl-desc="" tmpl-keywords="workflow" tmpl-name="tender-brahmagupta-20210120090248856" tmpl-target-version="3.12.0B1-RELEASE(2021-01-11:15:29:46 GMT)" tmpl-title="standard-workflow tender-brahmagupta Template" tmpl-type="workflow" wizard-step1-desc="Description" wizard-step1-label="Step" wizard-step1-order="1">
+  <consumer class="null-message-consumer">
+    <unique-id>big-davinci</unique-id>
+  </consumer>
+  <service-collection class="service-list">
+    <unique-id>kickass-noether</unique-id>
+    <services/>
+  </service-collection>
+  <producer class="null-message-producer">
+    <unique-id>small-thompson</unique-id>
+  </producer>
+  <produce-exception-handler class="null-produce-exception-handler"/>
+  <unique-id>tender-brahmagupta</unique-id>
+</standard-workflow>
