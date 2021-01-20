@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><add-timestamp-metadata-service tmpl-alias="add-timestamp-metadata-service" tmpl-author="Default Admin" tmpl-class-name="com.adaptris.core.services.metadata.AddTimestampMetadataService" tmpl-created="2021-01-20T09:05:46" tmpl-desc="" tmpl-keywords="service" tmpl-name="silly-wing-20210120090600132" tmpl-target-version="3.12.0B1-RELEASE(2021-01-11:15:29:46 GMT)" tmpl-title="add-timestamp-metadata-service silly-wing Template" tmpl-type="service" wizard-step1-desc="Description" wizard-step1-label="Step" wizard-step1-order="1">
+  <unique-id>silly-wing</unique-id>
+  <metadata-key>RBI-timestamp</metadata-key>
+  <date-format-builder class="date-format-builder-with-optional-fraction-and-offset">
+    <format>yyyy-MM-dd'T'HH:mm:ssZ</format>
+  </date-format-builder>
+</add-timestamp-metadata-service>
